@@ -1,2 +1,2 @@
-# Quiz
-A simple Java-based quiz application with 10 multiple-choice questions. The program tests the user's knowledge, calculates the score, and displays the final result. 
+# SwingQuizApp
+A Java-based GUI quiz application using Swing components with 10 multiple-choice questions, navigation buttons, and final score evaluation.
